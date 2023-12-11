@@ -18,7 +18,7 @@ that impact large and diverse populations. In my master's thesis, I built a stre
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suprim-nakarmi-8999ba1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suprim-nakarmi-8999ba1b8/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suprim-nakarmi-8999ba1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suprim-nakarmi-8999ba1b8/" height="30" width="40" /></a>
 <a href="https://facebook.com/suprim.nakarmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/suprim.nakarmi" height="30" width="40" /></a>
 </p>
 

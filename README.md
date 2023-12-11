@@ -28,7 +28,5 @@ that impact large and diverse populations. In my master's thesis, I built a stre
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/suprimnakarmi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/suprimnakarmi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suprimnakarmi&show_icons=true&locale=en&layout=compact" alt="suprimnakarmi" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=suprimnakarmi&show_icons=true&locale=en" alt="suprimnakarmi" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=suprimnakarmi&show_icons=true&locale=en" alt="suprimnakarmi" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suprimnakarmi&show_icons=true&locale=en&layout=compact" alt="suprimnakarmi" /></p>
 

@@ -2,7 +2,11 @@
 <h3 align="center">Machine Learning researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suprimnakarmi&label=Profile%20views&color=0e75b6&style=flat" alt="suprimnakarmi" /> </p>
-
+<p> I am a Computer science graduate student focusing on data-driven solutions for existing and unforeseen problems. With over 3 years
+of experience in research, I have published 2 journal papers, 2 conference papers, and a book.
+My research interest includes Active Learning, Machine Learning, Computer Vision,
+Reinforcement Learning, and the application of Artificial Intelligence (AI) in tackling challenges
+that impact large and diverse populations. In my master's thesis, I built a stream-based Active Learning framework that is suitable for mass screening with limited data. p>
 - 🔭 I’m currently working on **Active Learning**
 
 - 🌱 I’m currently learning **MLops**

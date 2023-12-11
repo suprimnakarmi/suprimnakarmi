@@ -7,6 +7,7 @@ of experience in research, I have published 2 journal papers, 2 conference paper
 My research interest includes Active Learning, Machine Learning, Computer Vision,
 Reinforcement Learning, and the application of Artificial Intelligence (AI) in tackling challenges
 that impact large and diverse populations. In my master's thesis, I built a stream-based Active Learning framework that is suitable for mass screening with limited data. </p>
+
 - 🔭 I’m currently working on **Active Learning**
 
 - 🌱 I’m currently learning **MLops**
@@ -29,5 +30,5 @@ that impact large and diverse populations. In my master's thesis, I built a stre
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suprimnakarmi&show_icons=true&locale=en&layout=compact" alt="suprimnakarmi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suprimnakarmi&show_icons=true&locale=en" alt="suprimnakarmi" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=suprimnakarmi&show_icons=true&locale=en" alt="suprimnakarmi" /></p>
 

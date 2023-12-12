@@ -12,7 +12,7 @@ that impact large and diverse populations. In my master's thesis, I built a stre
 
 - 🌱 I’m currently learning **MLops**
 
-- 💬 Ask me about **Machine learning, computer vision**
+- 💬 Ask me about **Machine learning and computer vision**
 
 - 📫 How to reach me **suprimnakarmi.jobs@gmail.com**
 

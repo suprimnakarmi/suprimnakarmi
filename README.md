@@ -14,7 +14,7 @@ that impact large and diverse populations. In my master's thesis, I built a stre
 
 - 💬 Ask me about **Machine learning and computer vision**
 
-- 📫 How to reach me **suprimnakarmi.jobs@gmail.com**
+- 📫 How to reach me **suprimnakarmi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

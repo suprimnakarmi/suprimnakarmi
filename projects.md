@@ -1,7 +1,5 @@
 | Projects | Description |
 | -------- | ----------- |
 |<a href = "https://github.com/suprimnakarmi/Active-Learning-epidemics">Classification with limited annotated image dataset </a> | Framework proposed for mass screening of medical imaging data using human-in-the-loop machine learning (or Active Learning) with limited annotations. This was my master thesis where I validated the framework on three distinct COVID-19 dataset: X-ray, CT scan, and cough sound and published a conference paper (first author) and a book (second author). |
-
 |<a href = "https://github.com/suprimnakarmi/smartphone_microscopy"> AI-assisted smartphone microscopy system</a> | Benchmarks the prediction performance of four object detectors (Faster RCNN, RetinaNet, YOLOv8s, and Deformable DETR) for diarrhial causing parasites such as Giardia and Cryptosporidium on an in-house built, sapphire ball lens based smartphone microscopy system. This project was completed during my tenure at NAAMII where I worked as a Research Assistant and published a conference paper (first author) and a journal article (first author).| 
-
 |<a href = "https://github.com/suprimnakarmi/zenml_customer_satisfaction"> Customer satisfaction level predictor</a>| Regression models that predict the customers' satisfaction level after the delivery of their ordered item. Deployed with MLops pipeline using Zenml and MLflow. This project is a part of my portfolio project.|

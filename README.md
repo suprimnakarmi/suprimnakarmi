@@ -30,3 +30,4 @@ that impact large and diverse populations. In my master's thesis, I built a stre
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=suprimnakarmi&show_icons=true&locale=en" alt="suprimnakarmi" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suprimnakarmi&show_icons=true&locale=en&layout=compact" alt="suprimnakarmi" /></p>
 
+<a href ="./projects.md">Projects</a>
